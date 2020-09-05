@@ -17,6 +17,10 @@ Resources for SDA remote testing RO3
 
 - [Test Automation Universtity](https://testautomationu.applitools.com/)
 
+    - [Java](https://testautomationu.applitools.com/java-programming-course/)
+	
+	- [Selenium](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
+
 - [ToolsQA](https://www.toolsqa.com/)
 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)    
