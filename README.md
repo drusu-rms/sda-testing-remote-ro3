@@ -58,6 +58,11 @@ https://cucumber.io/docs/gherkin/
 
 ### Java + Selenium 
 
-https://www.selenium.dev/downloads/
+- [Download](https://www.selenium.dev/downloads/)
 
-https://chromedriver.chromium.org/downloads
+- [Chrome Driver](https://chromedriver.chromium.org/downloads)
+
+- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp
+
+- [XPath selectors](https://www.w3schools.com/xml/xpath_syntax.asp)
+
